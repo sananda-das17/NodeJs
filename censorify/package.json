@@ -6,7 +6,7 @@
   "main": "censortext",
   "repository": {
   "type": "git",
-  "url": "http://github.com/sananda-das17/NodeJs/tree/master/censorify"
+  "url": "https://github.com/sananda-das17/NodeJs/tree/master/censorify"
   },
   "keywords": [
   "censor",

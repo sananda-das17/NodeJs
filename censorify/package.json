@@ -1,6 +1,6 @@
 {
   "author": "Brad Dayley",
-  "name": "censorifyText",
+  "name": "censorifytext",
   "version": "1.0.0",
   "description": "Censors words out of text",
   "main": "censortext",

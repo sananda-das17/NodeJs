@@ -1,0 +1,1 @@
+This pack Censors words out of text
